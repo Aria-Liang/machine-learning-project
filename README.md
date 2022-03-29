@@ -1,3 +1,3 @@
 # test
-for testing
-kkk
+supervised learning
+unsupervised learning
